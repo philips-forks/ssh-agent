@@ -1,4 +1,4 @@
-name: 'webfactory/ssh-agent'
+name: 'philips-forks/ssh-agent'
 description: 'Run `ssh-agent` and load an SSH key to access other private repositories'
 inputs:
     ssh-private-key:
